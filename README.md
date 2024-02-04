@@ -1,2 +1,2 @@
 # dhanvantri
-Dhanvantri Arogya
+Dhanvantri Arogya Hospital
